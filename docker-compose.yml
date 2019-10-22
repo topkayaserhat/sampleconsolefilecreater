@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  filecreater:
+    image: stopkaya/samplefilecreater:latest
+    volumes:
+      - './test:/app/files'  #.test host machine /app/files container itself
+  
+
+
+

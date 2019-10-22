@@ -1,0 +1,6 @@
+#Documentation
+https://docs.microsoft.com/en-us/dotnet/core/docker/build-container
+
+
+#Publish
+dotnet publish -c Release
